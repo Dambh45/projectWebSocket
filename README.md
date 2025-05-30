@@ -57,7 +57,7 @@ Lancement du frontend
     - Salle 2 
   - L'utilisateur "USER" est white list sur la Salle 2
 
-  **Accès compte admin : amin@test.com | admin1234** \
+  **Accès compte admin : admin@test.com | admin1234** \
   **Accès compte user : user@test.com | user1234**
 
 ## FONCTIONNALITES
